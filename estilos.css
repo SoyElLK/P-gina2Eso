@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font: condensed 120% sans-serif;
+    color: white;
+}
+
+.general {
+    color: gray;
+
+}
+
+img {
+    height: 200px;
+    border-radius: 15px;
+}
